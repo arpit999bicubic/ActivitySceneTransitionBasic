@@ -1,0 +1,49 @@
+[
+    {
+        "outputFile": "D:\\Android Demos\\ActivitySceneTransitionBasic\\ActivitySceneTransitionBasic\\Application\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v21\\values-v21.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 3,
+                    "endColumn": 12,
+                    "endOffset": 131
+                },
+                "from": {
+                    "file": "D:\\Android Demos\\ActivitySceneTransitionBasic\\ActivitySceneTransitionBasic\\Application\\src\\main\\res\\values-v21\\base-template-styles.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 677,
+                        "endLine": 21,
+                        "endColumn": 12,
+                        "endOffset": 753
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 136,
+                    "endLine": 12,
+                    "endColumn": 12,
+                    "endOffset": 548
+                },
+                "from": {
+                    "file": "D:\\Android Demos\\ActivitySceneTransitionBasic\\ActivitySceneTransitionBasic\\Application\\src\\main\\res\\values-v21\\styles.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 688,
+                        "endLine": 26,
+                        "endColumn": 12,
+                        "endOffset": 1100
+                    }
+                }
+            }
+        ]
+    }
+]

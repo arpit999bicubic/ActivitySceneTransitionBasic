@@ -1,0 +1,7 @@
+#Wed Nov 30 13:46:24 IST 2016
+base.0=D\:\\Android Demos\\ActivitySceneTransitionBasic\\ActivitySceneTransitionBasic\\Application\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_c3e71b7d154506bc1259c4b4851a600fd3e4d34a
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=D\:\\Android Demos\\ActivitySceneTransitionBasic\\ActivitySceneTransitionBasic\\Application\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_1ee8dbe633e361f57962f1462abead516fbb708c\\classes.dex
+base.1=D\:\\Android Demos\\ActivitySceneTransitionBasic\\ActivitySceneTransitionBasic\\Application\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_1ee8dbe633e361f57962f1462abead516fbb708c
+file.0=D\:\\Android Demos\\ActivitySceneTransitionBasic\\ActivitySceneTransitionBasic\\Application\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_c3e71b7d154506bc1259c4b4851a600fd3e4d34a\\classes.dex

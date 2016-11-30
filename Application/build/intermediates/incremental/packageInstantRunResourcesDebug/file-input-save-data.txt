@@ -1,0 +1,27 @@
+#Internal package file, do not edit.
+#Wed Nov 30 13:46:06 IST 2016
+2.base=D\:\\Android Demos\\ActivitySceneTransitionBasic\\ActivitySceneTransitionBasic\\Application\\build\\intermediates\\res\\resources-debug.ap_
+5.file=D\:\\Android Demos\\ActivitySceneTransitionBasic\\ActivitySceneTransitionBasic\\Application\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-hdpi-v4\\tile.9.png
+5.set=ANDROID_RESOURCE
+3.base=D\:\\Android Demos\\ActivitySceneTransitionBasic\\ActivitySceneTransitionBasic\\Application\\build\\intermediates\\res\\resources-debug.ap_
+6.file=D\:\\Android Demos\\ActivitySceneTransitionBasic\\ActivitySceneTransitionBasic\\Application\\build\\intermediates\\res\\resources-debug.ap_\\resources.arsc
+2.set=ANDROID_RESOURCE
+4.base=D\:\\Android Demos\\ActivitySceneTransitionBasic\\ActivitySceneTransitionBasic\\Application\\build\\intermediates\\res\\resources-debug.ap_
+7.file=D\:\\Android Demos\\ActivitySceneTransitionBasic\\ActivitySceneTransitionBasic\\Application\\build\\intermediates\\res\\resources-debug.ap_\\AndroidManifest.xml
+7.set=ANDROID_RESOURCE
+count=8
+0.file=D\:\\Android Demos\\ActivitySceneTransitionBasic\\ActivitySceneTransitionBasic\\Application\\build\\intermediates\\res\\resources-debug.ap_\\res\\transition\\grid_detail_transition.xml
+5.base=D\:\\Android Demos\\ActivitySceneTransitionBasic\\ActivitySceneTransitionBasic\\Application\\build\\intermediates\\res\\resources-debug.ap_
+4.set=ANDROID_RESOURCE
+6.base=D\:\\Android Demos\\ActivitySceneTransitionBasic\\ActivitySceneTransitionBasic\\Application\\build\\intermediates\\res\\resources-debug.ap_
+1.file=D\:\\Android Demos\\ActivitySceneTransitionBasic\\ActivitySceneTransitionBasic\\Application\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xhdpi-v4\\ic_launcher.png
+1.set=ANDROID_RESOURCE
+7.base=D\:\\Android Demos\\ActivitySceneTransitionBasic\\ActivitySceneTransitionBasic\\Application\\build\\intermediates\\res\\resources-debug.ap_
+2.file=D\:\\Android Demos\\ActivitySceneTransitionBasic\\ActivitySceneTransitionBasic\\Application\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\grid_item.xml
+6.set=ANDROID_RESOURCE
+0.base=D\:\\Android Demos\\ActivitySceneTransitionBasic\\ActivitySceneTransitionBasic\\Application\\build\\intermediates\\res\\resources-debug.ap_
+3.file=D\:\\Android Demos\\ActivitySceneTransitionBasic\\ActivitySceneTransitionBasic\\Application\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\details.xml
+3.set=ANDROID_RESOURCE
+1.base=D\:\\Android Demos\\ActivitySceneTransitionBasic\\ActivitySceneTransitionBasic\\Application\\build\\intermediates\\res\\resources-debug.ap_
+4.file=D\:\\Android Demos\\ActivitySceneTransitionBasic\\ActivitySceneTransitionBasic\\Application\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\grid.xml
+0.set=ANDROID_RESOURCE

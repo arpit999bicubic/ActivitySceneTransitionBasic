@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "D:\\Android Demos\\ActivitySceneTransitionBasic\\ActivitySceneTransitionBasic\\Application\\build\\intermediates\\res\\merged\\debug\\layout\\grid_item.xml",
+        "source": "D:\\Android Demos\\ActivitySceneTransitionBasic\\ActivitySceneTransitionBasic\\Application\\src\\main\\res\\layout\\grid_item.xml"
+    },
+    {
+        "merged": "D:\\Android Demos\\ActivitySceneTransitionBasic\\ActivitySceneTransitionBasic\\Application\\build\\intermediates\\res\\merged\\debug\\layout\\grid.xml",
+        "source": "D:\\Android Demos\\ActivitySceneTransitionBasic\\ActivitySceneTransitionBasic\\Application\\src\\main\\res\\layout\\grid.xml"
+    },
+    {
+        "merged": "D:\\Android Demos\\ActivitySceneTransitionBasic\\ActivitySceneTransitionBasic\\Application\\build\\intermediates\\res\\merged\\debug\\layout\\details.xml",
+        "source": "D:\\Android Demos\\ActivitySceneTransitionBasic\\ActivitySceneTransitionBasic\\Application\\src\\main\\res\\layout\\details.xml"
+    }
+]
